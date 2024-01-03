@@ -1,7 +1,7 @@
 ## Hey, I'm Camilo 👨🏻‍💻 
 
 ### About me
-23 years old, Informatics Engineer and Software Developer at [HOPR](https://github.com/hoprnet).<br/>
+24 years old, Informatics Engineer and Software Engineer
 I love design, web development, music and to cook.
 
 ### Stats
